@@ -1,6 +1,6 @@
 ## ASSIGNMENTS
 
-# Anitta A
+# Dharaneeswaran S
 
 > - [x] Assignment 1
 >
