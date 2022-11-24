@@ -1,6 +1,6 @@
 ## ASSIGNMENTS
 
-# Anitta A
+# Arun P
 
 > - [x] Assignment 1
 >
