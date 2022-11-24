@@ -1,6 +1,6 @@
 ## ASSIGNMENTS
 
-# Anitta A
+# Weslin Joel Raj A
 
 > - [x] Assignment 1
 >
