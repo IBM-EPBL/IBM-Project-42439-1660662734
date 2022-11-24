@@ -1,6 +1,6 @@
 ## ASSIGNMENTS
 
-# Anitta A
+# Jayashree K
 
 > - [x] Assignment 1
 >
