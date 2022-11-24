@@ -1,6 +1,6 @@
 ## ASSIGNMENTS
 
-# Anitta A
+# Arun P
 
 > - [x] Assignment 1
 >
@@ -10,18 +10,7 @@
 >
 > - [x] Assignment 4
 >
-# Darlin Jena P
-
-> - [x] Assignment 1
->
-> - [x] Assignment 2
->
-> - [x] Assignment 3
->
-> - [x] Assignment 4
->
-
-# Deepika T
+# Dharaneeswaran S
 
 > - [x] Assignment 1
 >
@@ -32,7 +21,18 @@
 > - [x] Assignment 4
 >
 
-# Devi Bala S
+# Jayashree K
+
+> - [x] Assignment 1
+>
+> - [x] Assignment 2
+>
+> - [x] Assignment 3
+>
+> - [x] Assignment 4
+>
+
+# Weslin Joel Raj A
 
 > - [x] Assignment 1
 >
